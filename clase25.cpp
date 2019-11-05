@@ -42,7 +42,7 @@ float** relleno(float** m, int filas, int columnas){
         cout << endl;
     }
     cout << endl;
-    return 0;
+    return m;
 }
 
 int imprimeCabezas(float** m,int filas, int columnas){
